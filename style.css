@@ -1,0 +1,53 @@
+#mynavbar{
+    background-color:#D32F2F; 
+}
+.my_nav_bar{
+    position: sticky;
+    top:0px;
+    z-index: 999;
+}
+#t{
+    color:white;
+}
+#image{
+    height:220px;
+    width:400px;
+}
+#text{
+    color:white;
+    size:100px;
+}
+#lol{
+    border-radius:circle;
+    height:200px;
+    width:120px;
+    padding-right:100px; 
+}
+#img{
+    border-radius:circle;
+    height:200px;
+    width:120px;
+    padding-left:100px; 
+}
+#home{
+    background: linear-gradient(#F44336 0%,#D32F2F 100%);
+  background-repeat:no repeat;
+    text-align: center;
+    font-family: cursive;
+}
+#media{
+    background: linear-gradient(#F44336 0%,#D32F2F 100%);
+  background-repeat:no repeat;
+    text-align: center;
+    font-family: cursive;
+}
+#vids{
+    background: linear-gradient(#F44336 0%,#D32F2F 100%);
+  background-repeat:no repeat;
+    text-align: center;
+    font-family: cursive;
+}
+body{
+    background-color:black; 
+    sti
+}
